@@ -1,0 +1,4 @@
+textual>=0.33
+rich
+psutil
+netifaces
